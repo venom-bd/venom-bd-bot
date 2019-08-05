@@ -15,7 +15,7 @@ bot.on('message', message =>{
                 message.channel.send('hi!!!!!') // Sends a message to the channel, with the content
             }
             else{
-                message.channel.send("Hey, I only understand >bang right now. More will be added when my creator is free. :) ")
+                message.channel.send("Hey, I only understand %hey right now. More will be added when my creator is free. :) ")
             }
         }
         else{
